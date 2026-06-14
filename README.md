@@ -1,80 +1,80 @@
 # Perceptive Interactive Lab
 
-Questo spazio nasce come primo punto pubblico di raccolta per un percorso di ricerca e sviluppo su percezione, interattività e piccoli prototipi.
+This space starts as a first public point of collection for an ongoing path of research and development around perception, interactivity, and small prototypes.
 
-È un archivio iniziale: un luogo dove raccogliere note, tracce, esperimenti e passaggi reali del lavoro, man mano che diventano abbastanza chiari da essere mostrati.
+It is an initial archive: a place to collect notes, traces, experiments, and real steps of the work as they become clear enough to be shared.
 
-Non vuole presentarsi come un progetto concluso, ma come l’apertura ordinata di un laboratorio in corso.
+It is not meant to present a finished project, but to open an ongoing lab in an ordered and readable way.
 
-## Che cos’è
+## What it is
 
-Perceptive Interactive Lab è un laboratorio tecnico e creativo in corso.
+Perceptive Interactive Lab is an ongoing technical and creative lab.
 
-Esiste per raccogliere e collegare esperimenti su come corpo, ambiente, suono, movimento, input, luce, fisica e interfaccia possono costruire una percezione interattiva.
+It exists to collect and connect experiments on how body, environment, sound, movement, input, light, physics, and interface can shape an interactive perception.
 
-Collega più rami di lavoro distinti che ruotano attorno a una stessa domanda, senza trasformarli subito in un unico prodotto o in una narrazione più grande di quanto siano davvero.
+It connects several distinct branches of work around the same central question, without forcing them too early into a single product or into a narrative larger than what they currently are.
 
-Questa pagina serve a creare un primo punto stabile, leggibile e sobrio dove raccogliere tracce reali del lavoro, man mano che diventano abbastanza chiare da essere mostrate.
+This page creates a first stable, readable, and sober point where real traces of the work can be collected as they become clear enough to be shown.
 
-## La domanda centrale
+## Central question
 
-Cosa cambia quando un’esperienza interattiva non parte solo dagli oggetti, dalle feature o dalla grafica, ma dalla percezione del giocatore?
+What changes when an interactive experience does not start only from objects, features, or graphics, but from the player’s perception?
 
-## I rami del percorso
+## Branches of the work
 
 ### Roblox / Aetherion
 
-Ramo giocabile e accessibile.
+A playable and accessible branch.
 
-Segni, State Loop, progressione e mondo che reagisce.
+Signs, State Loop, progression, and a world that reacts.
 
-L’idea è esplorare oggetti e stati che non servono solo a fare punti o sbloccare contenuti, ma a cambiare il modo in cui il corpo, il mondo, l’audio, l’interfaccia e la progressione rispondono al giocatore.
+The idea is to explore objects and states that do not only give points or unlock content, but change how the body, the world, the audio, the interface, and progression respond to the player.
 
 ### UNIGINE / Perceptive Framework
 
-Ramo esperienziale e scenico.
+An experiential and scenic branch.
 
-Eventi percettivi reali tradotti in scene interattive: pioggia, spiaggia, mare, foresta, soglie, passaggi di ambiente e medium.
+Real perceptive events translated into interactive scenes: rain, beach, sea, forest, thresholds, environmental passages, and medium transitions.
 
 ### Perceptive-First Engine
 
-Ramo tecnico profondo.
+A deeper technical branch.
 
-Runtime, fisica, rendering, snapshot, Workbench e architettura perception-first.
+Runtime, physics, rendering, snapshots, Workbench, and perception-first architecture.
 
-Non è un prodotto pubblico pronto.
+This is not a public-ready product.
 
-## Cosa troverai qui
+## What you will find here
 
-* note di orientamento;
-* mappe dei rami;
-* tracce reali;
-* appunti tecnici e percettivi;
-* eventuali clip o screenshot quando saranno maturi.
+* orientation notes;
+* branch maps;
+* real traces;
+* technical and perceptive notes;
+* selected clips or screenshots when they are mature enough.
 
-## Criterio di pubblicazione
+## Publishing criterion
 
-Questo spazio raccoglierà solo tracce legate a lavoro reale: note, esperimenti, passaggi tecnici, immagini o clip quando avranno abbastanza chiarezza da essere mostrati.
+This space will collect only traces connected to real work: notes, experiments, technical steps, images, or clips when they are clear enough to be shared.
 
-L’obiettivo è rendere visibile l’evoluzione del Lab senza anticiparla artificialmente.
+The goal is to make the evolution of the Lab visible without artificially anticipating it.
 
-## Stato attuale
+## Current state
 
-Questo spazio pubblico è appena stato aperto.
+This public space has just been opened.
 
-La cronologia delle tracce partirà da qui.
+The chronology of traces will start from here.
 
-Per ora funziona soprattutto come archivio iniziale e punto stabile a cui tornare, mentre il lavoro reale continua nei rami tecnici e prototipali.
+For now, it mainly works as an initial archive and a stable point of return, while the real work continues in the technical and prototyping branches.
 
-## Primi passi
+## First steps
 
-* consolidare questa pagina iniziale;
-* raccogliere le prime tracce reali;
-* scegliere con calma la prima traccia pubblicabile;
-* usare eventuali segnali esterni solo come rimando a questo spazio.
+* consolidate this initial page;
+* collect the first real traces;
+* calmly choose the first trace that is ready to be shared;
+* use any external signals only as pointers back to this space.
 
-## Formula guida
+## Guiding formula
 
-Non sto vendendo un prodotto. Sto aprendo un laboratorio.
+I am not selling a product. I am opening a lab.
 
-Non pubblico per dimostrare. Pubblico per rendere visibile un percorso reale mentre prende forma.
+I am not publishing to prove something. I am publishing to make a real path visible while it takes shape.
